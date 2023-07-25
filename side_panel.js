@@ -2,7 +2,8 @@ document.addEventListener('DOMContentLoaded', function () {
   displayTextInputBox();
 
   // Function to make an API call to OpenAI GPT-3.5-turbo Chatbot
-  const openAIApiKey = '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';
+  const openAIApiKey = process.env.OPENAI_API_KEY || 'YOUR_DEFAULT_API_KEY';
+
 
   async function callOpenAIGptChatbot(userQuestion) {
     // Display the chatbot response to the user
