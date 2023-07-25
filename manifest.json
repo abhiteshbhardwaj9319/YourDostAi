@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Your Dost",
+    "version": "1.0",
+    "description": "Ask Your Friend about 1)Your Personal Life Queries 2)Or keep it simple to a Joke 3)It Can be motivational Ideas too",
+
+      "icons": {
+      "48": "image/rocket.png"  
+    },
+    "action": {
+      "default_popup": "popup.html"  
+    },
+    "permissions": [
+      "activeTab" 
+    ],
+    "background": {
+      "service_worker": "background.js"  
+    }
+  }
+  
