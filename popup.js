@@ -1,6 +1,6 @@
 function openSidePanel() {
   const sidePanel = window.open('side_panel.html', 'SidePanel', 'width=600,height=500');
-  sidePanel.document.title = 'Side Panel'; // Set the title for the side panel
+  sidePanel.document.title = 'Side Panel';
 }
 
 document.addEventListener('DOMContentLoaded', function () {
