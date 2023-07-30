@@ -3,7 +3,7 @@ Revamped Chrome Extension chatbot with GPT turbo AI, replacing wit.ai for improv
 
 Usage: Using different promt techniques and database access it's will have a wide range of usage.For ex To solve students query in college websites, Ability to take orders in restaurant  and to serve different organisation to handle their customers and many more ...
 
-More Effiecient and optimised version of previous Extension.do check the video for more details and working.
+More Efficient and optimised version of previous Extension.do check the video for more details and working.
 
 
 
